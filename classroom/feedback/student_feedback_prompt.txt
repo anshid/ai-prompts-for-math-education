@@ -1,1 +1,15 @@
+# Title: Generate Personalized Student Feedback
+# Category: Classroom / Feedback
+# Goal: To produce constructive, encouraging feedback for math students.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+Given a student's answer and the correct solution,  
+generate short, personalized feedback focusing on:
+- What they did well
+- What concept needs clarification
+- A gentle next-step suggestion
+
+Keep tone encouraging and growth-oriented.
 
