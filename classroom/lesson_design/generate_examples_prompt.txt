@@ -1,1 +1,13 @@
+# Title: Generate Practice Examples for a Math Concept
+# Category: Classroom / Lesson Design
+# Goal: To create practice problems with increasing difficulty levels.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+Generate 5 example problems for {concept_name} arranged by difficulty:
+- Level 1: Basic conceptual
+- Level 2: Application
+- Level 3: Multi-step reasoning
+Provide clear solutions and short explanations for each.
 
