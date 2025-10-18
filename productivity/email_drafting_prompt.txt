@@ -1,0 +1,13 @@
+# Title: Draft Professional Academic Emails
+# Category: Productivity
+# Goal: To help educators write clear and polite academic emails.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+You are an academic writing an email about {context}.  
+Draft a professional, polite, and concise email with:
+- Clear subject line
+- Proper greeting
+- Well-structured body
+- Action-oriented closing
