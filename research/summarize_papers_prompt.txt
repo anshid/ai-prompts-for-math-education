@@ -1,0 +1,13 @@
+# Title: Summarize Academic Papers in Math Education
+# Category: Research
+# Goal: To generate structured summaries of academic papers.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+Summarize the following academic paper in a structured format:
+- **Topic & Focus**
+- **Methods Used**
+- **Key Findings**
+- **Educational Implications**
+Use concise academic tone suitable for research notes.
