@@ -1,0 +1,13 @@
+# Title: Generate New Research Ideas in Math Education
+# Category: Research
+# Goal: To brainstorm original, researchable ideas in math education.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+You are a researcher in mathematics education.  
+Generate 5 novel research questions or project ideas around {theme}.  
+For each:
+- Give a short background
+- Define the research gap
+- Propose an experimental or analytical method
