@@ -1,1 +1,14 @@
+# Title: Create Reflection Questions for Math Learning
+# Category: Classroom / Feedback
+# Goal: To promote metacognitive reflection after lessons.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+Create 5 reflection questions that help students think about what they learned in {topic_name}.  
+Use prompts like:
+- “What surprised you about…?”
+- “Where might you use this idea?”
+- “What mistake taught you the most?”
+Output in bullet list format.
 
