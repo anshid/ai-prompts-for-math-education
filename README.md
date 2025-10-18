@@ -1,41 +1,41 @@
-# 🧠 Prompts
+# 🧮 AI Prompts for Math Education
 
-A growing collection of useful, well-tested prompts for large language models (LLMs).  
-I originally built these for my own work in mathematics, education, and AI — but sharing them here so others can benefit.
+A curated collection of AI prompts designed to enhance mathematics teaching, learning, and research.
 
----
-
-## 📂 Structure
-
-Each file focuses on a specific use case:
-
-- `convert_quiz_questions_to_moodle_xml.txt` — Convert quiz questions into Moodle XML format  
-- `critical_review_of_moodle_xml_file.txt` — Guidelines to review Moodle XML files  
-- *(more coming soon!)*
+These prompts are crafted for practical classroom use — from generating quizzes and lesson plans to explaining abstract ideas clearly.  
+This project is evolving into a personal knowledge base and a public resource for math educators exploring the power of LLMs.
 
 ---
 
-## 🤝 Contributing
+## 📂 Repository Structure
 
-Found a great prompt or refined one of mine?  
-Please open a **Pull Request** or start a **Discussion** — collaboration is encouraged!
-
-**Contribution guidelines:**
-1. Add one prompt per `.txt` file  
-2. Start the file with a short description (what it does, context)  
-3. Use clear formatting and examples
+- **/classroom** – Prompts for lesson design, feedback, and quizzes  
+- **/research** – Prompts for paper summarization, idea generation  
+- **/productivity** – Prompts for managing teaching and research efficiently  
 
 ---
 
-## 🗂️ Wiki
+## 🧠 How to Use
+
+Each file is a standalone prompt.  
+Open the `.txt` file, read the short description, and copy the prompt into your preferred AI tool.
+
+---
+
+## 🚀 Contributing (Future Plan)
+
+Currently, this is a **curated project**, maintained by [@anshid](https://github.com/anshid).  
+Once the repository matures, external contributions and discussions will be opened.
+
+---
+
+## 🗂️ Wiki (Coming Soon)
 
 Visit the [Wiki](../../wiki) for:
-- Prompt categories  
-- Templates for creating structured prompts  
-- Example workflows  
+- Prompt Templates  
+- Categories and tags  
+- Example classroom workflows  
 
 ---
 
-## 🌟 Inspiration
-
-> “Simple ideas, powerful tools — one prompt at a time.”
+> “Mathematics becomes more human when we design tools that help everyone learn it better.”
