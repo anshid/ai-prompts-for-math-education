@@ -1,1 +1,16 @@
+# Title: Explain a Mathematical Concept Step-by-Step
+# Category: Classroom / Lesson Design
+# Goal: To generate clear, layered explanations of mathematical concepts.
+# Usage: Replace {concept_name} with your topic.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+You are a math educator helping students understand {concept_name}.  
+Explain it in four layers:
+1. Intuitive analogy
+2. Conceptual explanation
+3. Worked example
+4. Common misconception and how to fix it
+Format your response in Markdown.
 
