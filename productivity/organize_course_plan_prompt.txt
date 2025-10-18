@@ -1,0 +1,13 @@
+# Title: Organize a Semester Course Plan
+# Category: Productivity
+# Goal: To create structured math course outlines and schedules.
+# Author: Anshid
+# Last Updated: 2025-10-18
+
+## Prompt:
+Help me design a 12-week course plan for {course_name}.  
+Include:
+- Weekly topic breakdown
+- Learning objectives
+- Assessment methods
+- Suggested resources
