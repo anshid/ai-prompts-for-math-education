@@ -1,5 +1,7 @@
 # 🧮 AI Prompts for Math Education
 
+(Under development)
+
 A curated collection of AI prompts designed to enhance mathematics teaching, learning, and research.
 
 These prompts are crafted for practical classroom use — from generating quizzes and lesson plans to explaining abstract ideas clearly.  
