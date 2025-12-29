@@ -1,0 +1,31 @@
+# Title: Create Assessment for Learning
+# Category: Classroom / Feedback
+# Goal: To engage students with assessments.
+# Author: GenAI for educators with Gemini
+# Last Updated: 2025-12-29
+
+## Prompt:
+I am a [Enter your role]. Based on the following information, create a comprehensive and engaging assessment for my students. The assessment should:
+
+Cover all of the stated learning objectives
+Be aligned with the chosen assessment type and format
+Clearly evaluate the desired skills and knowledge
+Provide clear instructions and expectations for students
+Include answer keys or a rubric for grading
+
+Subject: [Enter subject]
+
+Grade level: [Enter grade level]
+
+Learning objectives: 
+[Enter learning objective]
+[Enter learning objective]
+[Enter learning objective]
+
+Assessment type: [Note whether the assessment should be formative, summative, individual, group, written, oral, performance-based, etc.]
+
+Desired skills assessed: [List specific skills or knowledge, as well as any critical thinking or higher-order skills to be evaluated]
+
+Time allotment: [Enter estimated time for the assessment; include desired number of questions, if applicable]
+
+Other criteria: [Include any existing rubrics or assessment criteria Gemini should reference]
