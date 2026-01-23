@@ -32,7 +32,7 @@ Assume the target audience is [specify level].
 
 Output constraints:
 
-Output only LaTeX Beamer body code (\section, \subsection, and \begin{frame}...\end{frame} blocks).
+Output only LaTeX Beamer body code in a code block (\section, \subsection, and \begin{frame}...\end{frame} blocks).
 
 Do not include the Beamer preamble.
 
